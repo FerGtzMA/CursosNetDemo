@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\aplicacionnetrazor\\aplicacionnetrazor\\pages\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|solutionrelative:aplicacionnetrazor\\pages\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\aplicacionnetrazor\\aplicacionnetrazor\\pages\\cursos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|solutionrelative:aplicacionnetrazor\\pages\\cursos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\aplicacionnetrazor\\aplicacionnetrazor\\pages\\cursos\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|solutionrelative:aplicacionnetrazor\\pages\\cursos\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\aplicacionnetrazor\\aplicacionnetrazor\\pages\\cursos\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|solutionrelative:aplicacionnetrazor\\pages\\cursos\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\aplicacionnetrazor\\aplicacionnetrazor\\pages\\cursos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|solutionrelative:aplicacionnetrazor\\pages\\cursos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\aplicacionnetrazor\\aplicacionnetrazor\\pages\\cursos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|solutionrelative:aplicacionnetrazor\\pages\\cursos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\aplicacionnetrazor\\aplicacionnetrazor\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D74D3A-311A-49AC-8C1D-261CFFDC68B0}|AplicacionNetRazor\\AplicacionNetRazor.csproj|solutionrelative:aplicacionnetrazor\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Editar.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml.cs",
-              "RelativeDocumentMoniker": "AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml.cs",
-              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml.cs",
-              "RelativeToolTip": "AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowCYAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:17:37.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml",
-              "RelativeDocumentMoniker": "AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml",
-              "RelativeToolTip": "AplicacionNetRazor\\Pages\\Cursos\\Editar.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T05:16:14.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Crear.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml.cs",
-              "RelativeDocumentMoniker": "AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml.cs",
-              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml.cs",
-              "RelativeToolTip": "AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T04:26:26.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml",
-              "RelativeDocumentMoniker": "AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml",
-              "RelativeToolTip": "AplicacionNetRazor\\Pages\\Cursos\\Crear.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T04:12:58.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml.cs",
-              "RelativeToolTip": "AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswCAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T03:54:39.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml",
-              "RelativeDocumentMoniker": "AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml",
-              "RelativeToolTip": "AplicacionNetRazor\\Pages\\Cursos\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T03:49:02.009Z",
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "AplicacionNetRazor\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\AplicacionNetRazor\\AplicacionNetRazor\\Models\\Curso.cs",
+              "RelativeToolTip": "AplicacionNetRazor\\Models\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:13:22.284Z",
               "EditorCaption": ""
             }
           ]

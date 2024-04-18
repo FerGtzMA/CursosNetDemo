@@ -134,3 +134,4 @@ C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\AplicacionNetRazor\Aplicaci
 C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\AplicacionNetRazor\AplicacionNetRazor\obj\Debug\net8.0\AplicacionNetRazor.pdb
 C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\AplicacionNetRazor\AplicacionNetRazor\obj\Debug\net8.0\AplicacionNetRazor.genruntimeconfig.cache
 C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\AplicacionNetRazor\AplicacionNetRazor\obj\Debug\net8.0\ref\AplicacionNetRazor.dll
+C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\AplicacionNetRazor\AplicacionNetRazor\obj\Debug\net8.0\AplicacionNetRazor.sourcelink.json
